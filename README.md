@@ -1,2 +1,1 @@
-#Primer Repo en Github
-#Primero Repo en Github
+Primer Repo en Github
